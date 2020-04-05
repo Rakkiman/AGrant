@@ -5,18 +5,21 @@
         "title": "Night at the Opera",
         "body": "Ongoing breach. You're signed to taskforce G as Grant. Replacing one casualty: Gold. The killer is of unnatural origins, likely caused by experiments of A. Hunt and the Heavens Society. Taskforce G has tracked their past since Ridgeway murders and Groversville Flu. Need more intel on both, something is amiss. Goliath: USAMRIID, knows hypergeometry, smart, efficient, in too deep soon. Grace: DEA, effective at disposal, egoistic, pedantic, at risk of exposure.   More information at GB, 34°43'28.5"N 113°48'00.8"W. From there, proceed to the scene with caution. --Adam. "
     },
+    
     {
         "from": "Software",
         "to": ["8A73B5", "a"],
         "title": "undefined",
         "body": "001100101 011000101 0110 10 01001 01 01110 1001010101"
     },
+    
     {
         "from": "Adam",
         "to": ["Grant"],
         "title": "Night at the Opera",
         "body":  "Ongoing breach. You're signed to taskforce G as Grant. Replacing one casualty: Gold. The killer is of unnatural origins, likely caused by experiments of A. Hunt and the Heavens Society. Taskforce G has tracked their past since Ridgeway murders and Groversville Flu. Need more intel on both, something is amiss. Goliath: USAMRIID, knows hypergeometry, smart, efficient, in too deep soon. Grace: DEA, effective at disposal, egoistic, pedantic, at risk of exposure.   More information at GB, 34°43'28.5"N 113°48'00.8"W. From there, proceed to the scene with caution. --Adam. "
     },
+    
     {
         "from": "Mike",
         "to": ["admin"],
