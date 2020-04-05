@@ -1,9 +1,9 @@
 {
-    "year": "2377",
+    "year": "1994",
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
+    "serverName": "Node G56 Intranet",
     "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "terminalID": "G56",
     "defaultUser": {
         "userId": "user",
         "password": "",
