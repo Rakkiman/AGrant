@@ -18,9 +18,9 @@
         "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
     },
     {
-        "from": "Mike",
-        "to": ["admin"],
-        "title": "wtf are you kidding me?",
-        "body": "Are you kidding me? Why don't you change your password?  The system is entirely compromised until you correct it.  You're the sysadmin, if you're this dumb the corporation is at risk."
+        "from": "Adam",
+        "to": ["Grant"],
+        "title": "Night at the Opera",
+        "body": "Ongoing breach. You're signed to taskforce G as Grant. Replacing one casualty: Gold. The killer is of unnatural origins, likely caused by experiments of A. Hunt and the Heavens Society. Taskforce G has tracked their past since Ridgeway murders and Groversville Flu. Need more intel on both, something is amiss. Goliath: USAMRIID, knows hypergeometry, smart, efficient, in too deep soon. Grace: DEA, effective at disposal, egoistic, pedantic, at risk of exposure.   More information at GB, 34°43'28.5''N 113°48'00.8''W. From there, proceed to the scene with caution. Adam."
     }
 ]
