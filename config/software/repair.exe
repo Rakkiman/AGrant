@@ -1,0 +1,29 @@
+{
+    "repair": {
+        "filename": "repair",
+        "filetype": "exe",
+        "location": ["127.0.0.1", "localhost"],
+        "protection": ["admin", "Holobeam"],
+        
+        "delayed": 2000,
+        "message": [
+            "Running repair.exe",
+            "Repairing",
+            "0% complete",
+            "55% complete",
+            "99% complete",
+            "99% complete",
+            "99% complete",
+            "Unable to repair log",
+            "Analyzing target data",
+            "Rotifers join the piping circus",
+            "Dribble from the Source of Tur",
+            "Stranger with Antlers gaze upon the center",
+            "Dark stars circle the skies",
+            "Over the lake swan songs melt",
+            "Incontinent awe pushes the bdelloid"
+            "Marble fountains bubble with antique mirth"
+            "King of Tur sits upon He who eats time"
+        ]
+    }
+}
