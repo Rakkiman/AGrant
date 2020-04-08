@@ -5,9 +5,9 @@
         "location": ["127.0.0.1", "localhost"],
         "protection": ["admin", "Holobeam"],
         
-        "delayed": false,
+        "delayed": 1000,
         "message": [
-            "Test"
+            "Analyzing request"
         ]
     }
 }
