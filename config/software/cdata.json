@@ -5,7 +5,7 @@
         "location": ["127.0.0.1", "localhost"],
         "protection": false,
                 
-        "delayed": true,
+        "delayed": false,
         "message": "Analyzing request..  Analyzing request..  Connecting..  0% complete,  11% complete,  47% complete,  98% complete,  Connection complete! Pointing Olympian..  0% complete,  16% complete,  99% complete,  Olympian pointed!  Receiving target data  Target data received!  Processing target data..  Target data processed!  Analyzing target data..  0% complete  11% complete,  23% complete,  31% complete,  46% complete,  62% complete,  77% complete,  98% complete,  100% complete,  Target data analyzed!  Target coordinates RA 4h 35m 55s | DEC +16° 30′ 33  Target distance 65.3 ± 1.0 ly  Target 109 Target data corrupted  Repairing target data  0% complete  20% complete  67% complete  99% complete  99% complete  99% complete  Error while repairing target data  Analyzing target data  Rotifers join the piping circus  Dribble from the Source of Tur  Stranger with Antlers gaze upon the center  Black stars circle the skies  Over the Demhe swan songs melt  King of Demhe sits upon the black throne  Incontinent awe pushes the bdelloid  King of Demhe sits upon the black throne"
     }
 }
