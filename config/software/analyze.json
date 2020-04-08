@@ -5,9 +5,15 @@
         "location": ["127.0.0.1", "localhost"],
         "protection": ["admin", "Holobeam"],
         
-        "delayed": 1000,
+        "delayed": 2000,
         "message": [
             "Analyzing request"
+            "Connecting"
+            "Connection complete"
+            "Pointing Olympian"
+            "12% complete"
+            "52% complete"
+            "99% complete"
         ]
     }
 }
