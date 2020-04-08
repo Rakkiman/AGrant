@@ -6,6 +6,8 @@
         "protection": ["admin", "Holobeam"],
         
         "delayed": false,
-        "message": "Test"
+        "message": [
+            "Test"
+        ]
     }
 }
