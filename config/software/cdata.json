@@ -3,7 +3,7 @@
         "filename": "cdata",
         "filetype": "exe",
         "location": ["127.0.0.1", "localhost"],
-        "protection": ["admin"],
+        "protection": ["Holobeam"],
                 
         "delayed": true,
         "message": [
