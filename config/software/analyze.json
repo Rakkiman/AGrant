@@ -6,6 +6,6 @@
         "protection": ["admin", "Holobeam"],
         
         "delayed": false,
-        "message": "System successfull analyzed!"
+        "message": "Test"
     }
 }
