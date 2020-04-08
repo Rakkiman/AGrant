@@ -13,7 +13,13 @@
             "Pointing Olympian",
             "12% complete",
             "52% complete",
-            "99% complete"
+            "99% complete",
+            "Receiving target data, running data processor",
+            "15% complete",
+            "35% complete",
+            "99% complete",
+            "Target data processed, running data analyzer",
+            "Run log.exe"
         ]
     }
 }
