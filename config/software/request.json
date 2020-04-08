@@ -5,7 +5,7 @@
         "location": ["127.0.0.1", "localhost"],
         "protection": ["Grant"]
                 
-        "delayed": 2000,
+        "delayed": 1000,
         "message": [
             "Analyzing request..",
             "Analyzing request..",
