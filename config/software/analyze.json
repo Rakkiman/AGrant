@@ -7,12 +7,12 @@
         
         "delayed": 2000,
         "message": [
-            "Analyzing request"
-            "Connecting"
-            "Connection complete"
-            "Pointing Olympian"
-            "12% complete"
-            "52% complete"
+            "Analyzing request",
+            "Connecting",
+            "Connection complete",
+            "Pointing Olympian",
+            "12% complete",
+            "52% complete",
             "99% complete"
         ]
     }
