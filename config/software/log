@@ -1,0 +1,21 @@
+{
+    "log": {
+        "filename": "log",
+        "filetype": "exe",
+        "location": ["127.0.0.1", "localhost"],
+        "protection": ["admin", "Holobeam"],
+        
+        "delayed": 2000,
+        "message": [
+            "Running log.exe",
+            "Unpacking",
+            "0% complete",
+            "55% complete",
+            "99% complete",
+            "Target coordinates RA 4h 35m 55s | DEC +16° 30′ 33",
+            "Target distance 65.3 ± 1.0 ly",
+            "Data corrupted",
+            "Run repair.exe"
+        ]
+    }
+}
