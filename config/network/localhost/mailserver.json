@@ -22,5 +22,11 @@
         "to": ["Grant"],
         "title": "Night at the Opera",
         "body": "There is an ongoing breach. You're signed to taskforce G as Grant. Replacing one casualty: Gold. Objectives: Investigate Gold's death, examine and eradicate the Source. The killer is of unnatural origin, likely caused by experiments of late A. Hunt and the Heavens Society. Taskforce G has tracked them since Ridgeway murders and Groversville Flu. Need more intel on both, something is amiss. Your team consists of Goliath and Grace. Goliath: USAMRIID, knows hypergeometry, smart, efficient, in too deep soon. Grace: DEA, effective at disposal, egoistic, pedantic, at risk of exposure.   More information at GB, 34°43'28.5''N 113°48'00.8''W. From there, proceed to the scene with caution. Adam."
+    },
+    {
+        "from": "Alphonse",
+        "to": ["Grant", "Grace", "Goliath"],
+        "title": "PREYING EYE",
+        "body": "This is the current intel concerning area PREYING EYE.  The site was built in the Cascadian mountains between 1935 and 1939, by Hunt Electrodynamics. After the death of A. Hunt, most of the equipment was sold to various private companies and DoD. Some activities still remained through the seventies until Olympian Advances, Inc bought area PREYING EYE in 1982.  Current activities are unknown, but aerial photographs indicate ongoing use of a large, 500ft. radiotelescope funded by DoE and myriad small donors. The project is very classified.  Our intel located a former Hunt Electrodynamics recruiter, James Milton, now living in Seattle, Washington. He might know more. GB at 47°32'41.4''N 122°19'14.0''W, code 8763.  Stay vigilant,  Alphonse"
     }
 ]
