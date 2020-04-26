@@ -21,5 +21,10 @@
         "userId": "Grace",
         "password": "trustno1",
         "userName": "Grace"
+    },
+    {
+        "userId": "Gate",
+        "password": "Unorthodoxy",
+        "userName": "Gate"
     }
 ]
